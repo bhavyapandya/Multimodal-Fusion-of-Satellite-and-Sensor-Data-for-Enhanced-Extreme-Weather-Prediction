@@ -1,0 +1,2 @@
+# Multimodal-Fusion-of-Satellite-and-Sensor-Data-for-Enhanced-Extreme-Weather-Prediction
+we propose a multimodal fusion approach that integrates satellite observations with high-resolution meteorological data to enhance extreme weather event prediction. Our methodology involves curating a comprehensive dataset by combining NOAA storm event records, Open-Meteo sensor data, and NASA GIBS satellite imagery.
